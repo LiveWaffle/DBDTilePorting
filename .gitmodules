@@ -1,3 +1,4 @@
 [submodule "DBDPorting/CUE4Parse"]
-	path = DBDPorting/CUE4Parse
-	url = https://github.com/FabianFG/CUE4Parse.git
+    path = DBDPorting/CUE4Parse
+    url = https://github.com/FabianFG/CUE4Parse.git
+    recursive = true
